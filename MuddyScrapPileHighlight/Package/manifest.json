@@ -2,9 +2,9 @@
   "name": "MuddyScrapPileHighlight",
   "description": "Highlights the fragments a pickaxe leaves in a Muddy Scrap Pile with a shrinking glow and one on-screen marker per fragment, through walls and darkness. Toggle with F8, configurable. Client-side only, multiplayer compatible.",
   "version_number": "0.1.0",
-  "website_url": "https://github.com/orax-Valheim-mods/",
+  "website_url": "https://github.com/orax-Valheim-mods/MuddyScrapPileHighlight",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2333",
+    "denikson-BepInExPack_Valheim-5.4.2351",
     "ValheimModding-Jotunn-2.30.2"
   ]
 }
