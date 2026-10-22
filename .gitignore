@@ -375,3 +375,5 @@ Environment.props
 */Package/plugins/*
 */Package/README.md
 */Package/CHANGELOG.md
+
+.RELEASE/
