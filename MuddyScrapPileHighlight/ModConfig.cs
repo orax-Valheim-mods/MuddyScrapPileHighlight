@@ -115,7 +115,7 @@ namespace MuddyScrapPileHighlight
             HideCryptWater = file.Bind(
                 "Highlight",
                 "HideCryptWater",
-                false,
+                true,
                 new ConfigDescription(
                     "Hide the green water of Sunken Crypts so the shells show through it. "
                         + "Off, the crypt water is drawn as usual and hides underwater "
