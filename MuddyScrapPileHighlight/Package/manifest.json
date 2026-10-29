@@ -1,6 +1,6 @@
 ﻿{
   "name": "MuddyScrapPileHighlight",
-  "description": "Highlights the fragments a pickaxe leaves in a Muddy Scrap Pile with a shrinking glow and one on-screen marker per fragment, through walls and darkness. Toggle with F8, configurable. Client-side only, multiplayer compatible.",
+  "description": "Highlights Muddy scrap pile fragments to easily spot them in Sunken crypts.",
   "version_number": "0.1.0",
   "website_url": "https://github.com/orax-Valheim-mods/MuddyScrapPileHighlight",
   "dependencies": [
